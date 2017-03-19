@@ -4,7 +4,15 @@
 
 [![Build Status](https://travis-ci.org/bengreenier/unity-package-download.svg?branch=master)](https://travis-ci.org/bengreenier/unity-package-download)
 
-Client for downloading packages from the unity package service
+Client for downloading packages from the unity package service. 
+
+__You must download one package manually before this will work, as you need to accept the unity TOS__.
+
+It's important to note that __this is for downloading (not purchasing)__ packages -
+as such, you can only get content you're already authorized to get.
+
+To purchase yourself a package (not needed for free ones) go to [unity3d](https://www.assetstore.unity3d.com)
+and purchase it.
 
 ## How
 
