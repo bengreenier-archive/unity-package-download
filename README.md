@@ -24,7 +24,7 @@ Simple! Just `npm install unity-package-download`
 
 ### Use
 
-See the following (or the [tests](./test/basic.js):
+See the following (or the [tests](./test/basic.js)):
 
 ```
 const client = new UnityDownloadClient('sessionId')
