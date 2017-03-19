@@ -12,7 +12,7 @@ It's important to note that __this is for downloading (not purchasing)__ package
 as such, you can only get content you're already authorized to get.
 
 To purchase yourself a package (not needed for free ones) go to [unity3d](https://www.assetstore.unity3d.com)
-and purchase it.
+and click 'buy'.
 
 ## How
 
